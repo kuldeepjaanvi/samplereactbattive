@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "Motivational Speaker",
+                "name": "Anshul"
+            },
+            "author": "Anshul",
+            "title": "COVID-19 Situation and Stay Motivated.",
+            "description": "We provide the digital content with out creating animated character feel free to contact us and view our work.",
+            "url": "https://www.youtube.com/channel/UCKK8zVuZNtK9xVmKhOiNS1Q/featured",
+            "urlToImage": "https://firebasestorage.googleapis.com/v0/b/ecoach-2dd8b.appspot.com/o/anshul.png?alt=media&token=6416d13a-72db-49eb-b82b-0831c7057fea",
+            "publishedAt": "2020-05-06T12:30:51Z",
+            "content": "<ul><li>Other content.\r\n</li><li>The Unit… [+19624 chars]"
+        },
+        {
+            "source": {
+                "id": "Sarang Animator",
+                "name": "Vasu"
+            },
+            "author": "Vasu",
+            "title": "Digital Marketing for your shop | Please feel free to contact us and view our work",
+            "description": "We provide the digital content with out creating animated character feel free to contact us and view our work.",
+            "url": "https://www.youtube.com/channel/UC6j-SrZhTwItD-DAdAtRntA/playlists",
+            "urlToImage": "https://firebasestorage.googleapis.com/v0/b/ecoach-2dd8b.appspot.com/o/Screenshot%202020-05-07%20at%203.34.22%20PM.png?alt=media&token=01e00733-cf67-46b7-9350-a97f24e878d9",
+            "publishedAt": "2020-05-06T12:30:51Z",
+            "content": "<ul><li>Other content.\r\n</li><li>The Unit… [+19624 chars]"
+        },
+        {
+            "source": {
+                "id": "Training",
+                "name": "Focus"
+            },
+            "author": "Focus Class",
+            "title": "Online science classes 9th to 12th | 7 days free demo.",
+            "description": "We provide the digital content with out creating animated character feel free to contact us and view our work.",
+            "url": "https://www.facebook.com/profile.php?id=100010200730306",
+            "urlToImage": "https://firebasestorage.googleapis.com/v0/b/ecoach-2dd8b.appspot.com/o/Screenshot%202020-05-07%20at%203.31.38%20PM.png?alt=media&token=a8a46d66-6276-4a6a-87c1-8dd2d02672e3",
+            "publishedAt": "2020-05-06T12:30:51Z",
+            "content": "<ul><li>Other content.\r\n</li><li>The Unit… [+19624 chars]"
+        }
+    ]
+}

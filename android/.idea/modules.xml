@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LetsHealthy.iml" filepath="$PROJECT_DIR$/.idea/modules/LetsHealthy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LetsHealthy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LetsHealthy.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-495901885/LetsHealthy.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-495901885/LetsHealthy.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-482897402/LetsHealthy.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-482897402/LetsHealthy.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-407265388/LetsHealthy.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-407265388/LetsHealthy.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-538265957/LetsHealthy.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-538265957/LetsHealthy.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-623055599/LetsHealthy.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-623055599/LetsHealthy.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1133249399/LetsHealthy.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-1133249399/LetsHealthy.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/731946700/LetsHealthy.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/731946700/LetsHealthy.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/914796033/LetsHealthy.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/914796033/LetsHealthy.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/566652024/LetsHealthy.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/566652024/LetsHealthy.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/895583110/LetsHealthy.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/895583110/LetsHealthy.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1652568664/LetsHealthy.expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/1652568664/LetsHealthy.expo-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2037900098/LetsHealthy.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/-2037900098/LetsHealthy.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-706714973/LetsHealthy.expo-web-browser.iml" filepath="$PROJECT_DIR$/.idea/modules/-706714973/LetsHealthy.expo-web-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1185084202/LetsHealthy.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1185084202/LetsHealthy.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1667626224/LetsHealthy.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1667626224/LetsHealthy.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247661228/LetsHealthy.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/1247661228/LetsHealthy.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1533127917/LetsHealthy.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1533127917/LetsHealthy.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-646196977/LetsHealthy.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-646196977/LetsHealthy.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/813514262/LetsHealthy.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/813514262/LetsHealthy.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2009783890/LetsHealthy.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2009783890/LetsHealthy.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/172251657/LetsHealthy.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/172251657/LetsHealthy.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1544125984/LetsHealthy.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1544125984/LetsHealthy.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1726843654/LetsHealthy.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/1726843654/LetsHealthy.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1627026998/LetsHealthy.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1627026998/LetsHealthy.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102753560/LetsHealthy.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1102753560/LetsHealthy.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1945970412/LetsHealthy.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1945970412/LetsHealthy.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1442954458/LetsHealthy.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1442954458/LetsHealthy.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/117929147/LetsHealthy.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/117929147/LetsHealthy.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/998244069/LetsHealthy.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/998244069/LetsHealthy.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/490839938/LetsHealthy.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/490839938/LetsHealthy.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-398880904/LetsHealthy.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-398880904/LetsHealthy.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/816643785/LetsHealthy.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/816643785/LetsHealthy.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2052420398/LetsHealthy.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/2052420398/LetsHealthy.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1028776066/LetsHealthy.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1028776066/LetsHealthy.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2146317848/LetsHealthy.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/2146317848/LetsHealthy.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>

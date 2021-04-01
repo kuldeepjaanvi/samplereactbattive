@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "sonihealthcare",
+    "slug": "sonihealthcare",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "androidStatusBar": {
+      "backgroundColor": "#093561",
+      "barStyle": "dark-content"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.enablingpeople.sonihealthcare",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.enablingpeople.sonihealthcare",
+      "versionCode": 2
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
